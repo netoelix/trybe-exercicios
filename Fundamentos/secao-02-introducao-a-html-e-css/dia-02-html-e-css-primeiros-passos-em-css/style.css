@@ -1,0 +1,31 @@
+<style>
+h1 {
+    font-size: 65px;
+    color: orange;
+    font-family: sans-serif;
+}
+ul {
+    background-color: blueviolet;
+}
+#muda-cor {
+    background-color: aquamarine;
+}
+p {
+    font-weight: 600em;
+}
+body {
+    font-size: 16px;
+    line-height: 3em;
+    text-align: center;
+    text-decoration: solid;
+}
+#amarelo{
+    background-color: yellow;
+}
+#marrom{
+    background-color: brown;
+}
+#vermelho{
+    background-color: red;
+}
+</style>
