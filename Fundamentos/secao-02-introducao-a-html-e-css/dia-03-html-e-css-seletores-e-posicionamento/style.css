@@ -22,3 +22,36 @@ li {
 li.italico {
     font-weight: bold;
 }
+li.azul {
+    color: blue;
+}
+li.java {
+    background-color: pink;
+}
+a:link {
+    text-decoration: none;
+    color: black;
+}
+a:visited{
+    color: black;
+}
+.stack:hover {
+    font-weight: bold;
+    color: orange;
+}
+.w3:hover{
+    font-weight: bold;
+    color: green;
+}
+.mozilla:hover {
+    font-weight: bold;
+    color: black;
+}
+.devdocs:hover {
+    font-weight: bold;
+    color: yellow;
+}
+.trybe:hover {
+    font-weight: bold;
+    color: green;
+}
