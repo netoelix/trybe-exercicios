@@ -16,3 +16,9 @@ h1.italico {
     border-color: black;
     border-style:solid;
 }
+li {
+    font-size: 20px;
+}
+li.italico {
+    font-weight: bold;
+}
